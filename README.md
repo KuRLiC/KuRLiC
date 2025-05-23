@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m KuRLiC
 
-<!--
-**KuRLiC/KuRLiC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Senior Software Engineer
 
-Here are some ideas to get you started:
+- 🛠️ Specializing in firmware, embedded systems, Linux, and modern software development.
+- 💻 Languages: Python, C, C++, C#, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+
+- 🥋 20 years studying Shaolin Kung Fu — Certified Shaolin Instructor
+- 👨‍👩‍👧‍👦 Married & proud father of two
+- 🛠️ Passionate about home DIY and all things tech
+- 🎓 Bachelor’s in Computer Science; thesis on AI agents
+- 🌄 Avid hiker, animal lover, and advocate for rural living
+- 🧠 Dyslexic, probably ADHD — pragmatic, science enthusiast, always curious
+
+---
+
+## 🚀 What Drives Me
+
+I embrace challenges with a unique mix of discipline from martial arts and innovation from tech. My journey merges code, family, nature, and a love for lifelong learning.
+
+---
+
+> “Stay pragmatic. Solve real problems. Never stop exploring.” 🚶‍♂️🌱
